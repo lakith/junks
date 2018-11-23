@@ -1,0 +1,5 @@
+HttpResponse<String> response = Unirest.get("http://10.96.197.163:8080/WorkFlowAPI/webresources/ndbws/getCustomerDetails?mnemonic=V870111800")
+  .header("sessionkey", "VpJH7px/nKT5fc+6NzR6Zk7acDPa0J373+TmgFr+08g=")
+  .header("cache-control", "no-cache")
+  .header("postman-token", "174fa081-7913-45c6-03f2-b1258f0168b7")
+  .asString();
