@@ -1,5 +1,20 @@
+
+HttpResponse<String> response = Unirest.get("http://10.96.197.163:8080/WorkFlowAPI/webresources/ndbws/getSessionToken")
+  .header("cache-control", "no-cache")
+  .header("postman-token", "65e5b9d5-3407-faf8-9075-a4d58251f5fb")
+  .asString();
+
+
 HttpResponse<String> response = Unirest.get("http://10.96.197.163:8080/WorkFlowAPI/webresources/ndbws/getCustomerDetails?mnemonic=V870111800")
   .header("sessionkey", "VpJH7px/nKT5fc+6NzR6Zk7acDPa0J373+TmgFr+08g=")
   .header("cache-control", "no-cache")
   .header("postman-token", "174fa081-7913-45c6-03f2-b1258f0168b7")
   .asString();
+
+
+HttpResponse<String> response = Unirest.get("http://10.96.197.163:8080/WorkFlowAPI/webresources/ndbws/closeSession")
+  .header("sessionkey", "ZCh7MKBQ+dBs+C8LPbn11bNoGQNhcm2YJtNA4iC0bvk=")
+  .header("cache-control", "no-cache")
+  .header("postman-token", "ebc73ae4-773d-a107-486d-4cf7f39fca3c")
+  .asString();
+
