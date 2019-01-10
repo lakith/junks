@@ -1,0 +1,28 @@
+Biller Category,Biller Name,Biller Nick Name,Location,Biller Sub Category,Biller Type,Collection Account Number,Account Type,Collection Account Bank Name,Collection Account Bank Branch Name,Collection Account Payee Name,Fee Amount,Service Tax,Minimum Amount (can pay),Maximum Amount (can pay),Biller Contact Email ID,Biller Contact Phone Number,Input Field 1,Field Length and validation Rule1,Input Field 2,Field Length and validation Rule2,Input Field 3,Field Length and validation Rule3,Input Field 4,Field Length and validation Rule4,Input Field 5,Field Length and validation Rule5,Misc Payment Rules Logic and Comments
+Telephone,Dialog Axiata PLC Mobile,DIALOG MOBILE,Colombo,,Online,101000120848,Current Acc,NDB,Head Office,,,,50,100000,global@dialog.lk,1777,Phone No,10-10,,,,,,,,,N
+Internet,Dialog Axiata PLC Mobile,DIALOG MOBILE,Colombo,,Online,101000120848,Current Acc,NDB,Head Office,,,,50,100000,global@dialog.lk,1777,Phone No,10-10,,,,,,,,,N
+Telephone,Dialog Axiata PLC  Fixed Lines,DIALOG FIXED LINES,Colombo,,Online,101110011459,Current Acc,NDB,Head Office,,,,50,100000,global@dialog.lk,94117100100,Phone No,10-10,,,,,,,,,N
+Internet,Dialog Axiata PLC  Fixed Lines,DIALOG FIXED LINES,Colombo,,Online,101110011459,Current Acc,NDB,Head Office,,,,50,100000,global@dialog.lk,94117100100,Phone No,10-10,,,,,,,,,N
+Television,Dialog Axiata PLC TV,DIALOG TV,Colombo,,Online,101110010428,Current Acc,NDB,Head Office,,,,50,10000,global@dialog.lk,1777,DTV Account No,8-8,,,,,,,,,N
+Telephone,Etisalat Lanka Private Ltd,ETISALAT,Colombo,,Online,101000024757,Current Acc,NDB,Head Office,,,,50,100000,customercare@int.etisalat.lk,94722123123,Phone No,10-10,,,,,,,,,N
+Internet,Etisalat Lanka Private Ltd,ETISALAT,Colombo,,Online,101000024757,Current Acc,NDB,Head Office,,,,50,100000,customercare@int.etisalat.lk,94722123123,Phone No,10-10,,,,,,,,,N
+Telephone,Lanka Bell Limited,LANKA BELL,Colombo,,Offline,101000033047,Current Acc,NDB,Head Office,,,,50,100000,bellcare@mail.lankabell.com,94115335000,Phone No,10-10,,,,,,,,,N
+Internet,Lanka Bell Limited,LANKA BELL,Colombo,,Offline,101000033047,Current Acc,NDB,Head Office,,,,50,100000,bellcare@mail.lankabell.com,94115335000,Phone No,10-10,,,,,,,,,N
+Telephone,Mobitel Pvt Ltd,MOBITEL,Colombo,,Online,101000090434,Current Acc,NDB,Head Office,,,,50,100000,info@mobitel.lk,94712755777,Phone No,10-10,,,,,,,,,N
+Internet,Mobitel Pvt Ltd,MOBITEL,Colombo,,Online,101000090434,Current Acc,NDB,Head Office,,,,50,100000,info@mobitel.lk,94712755777,Phone No,10-10,,,,,,,,,N
+Telephone,Sri Lanka Telecom,SLT,Colombo,,Online,101110008668,Current Acc,NDB,Head Office,,,,50,100000,pr@slt.lk,94112021000,Phone/SLT Account No,10-10,,,,,,,,,N
+Internet,Sri Lanka Telecom,SLT,Colombo,,Online,101110008668,Current Acc,NDB,Head Office,,,,50,100000,pr@slt.lk,94112021000,Phone/SLT Account No,10-10,,,,,,,,,
+Insurance,Allianz Insurance Lanka Ltd,ALLIANZ LIFE,Colombo,,Offline,101110012374,Current Acc,NDB,Head Office,,,,50,100000,,94112300400,Policy No,3-16,,,,,,,,,
+Insurance,Amana Takaful PLC,AMANA TAKAFUL,Colombo,,Offline,101110007869,Current Acc,NDB,Head Office,,,,50,100000,info@takaful.lk ,94117501000,Policy No,3-16,,,,,,,,,
+Insurance,Ceylinco Insurance PLC,CEYLINCO INSURANCE,Colombo,,Offline,101000076318,Current Acc,NDB,Head Office,,,,50,100000,,,Policy No,3-8,,,,,,,,,
+Insurance,Janashakthi Insurance PLC,JANASHAKTHI,Colombo,,Offline,101110011197,Current Acc,NDB,Head Office,,,,50,100000,insurance@janashakthi.com,94112303300,Policy No,3-16,,,,,,,,,
+Insurance,Union Assurance PLC,UNION ASSURANCE,Colombo,,Offline,101110005858,Current Acc,NDB,Head Office,,,,50,100000,unionassurance@ualink.lk,94112428428,Policy No,3-16,,,,,,,,,AN
+Insurance,JANASHAKTHI GENERAL INSURANCE LTD,JANASHAKTHI - GENERAL,Colombo,,Offline,101000353559,Current Acc,NDB,Cash Management,,,,50,100000,,,Policy No,3-16,,,,,,,,,
+Insurance,AIA Insurance Lanka PLC Life,A I A INSURANCE - Life,Colombo,,Offline,101000098303,Current Acc,NDB,Cash Management,,,,50,100000,aialife.com.lk,94112310310,Policy No,3-16,,,,,,,,,
+Electricity,Ceylon Electricity Board,CEB,Colombo,,Offline,101110005057,Current Acc,NDB,Head Office,,,,50,20000,,1987,CEB Account No,10-10,,,,,,,,,N
+Electricity,Lanka Electricity Company Private Limited,LECO,Colombo,,Offline,101110012366,Current Acc,NDB,Head Office,,,,50,100000,,,LECO Account No,10-10,,,,,,,,,N
+Water,National Water Supply and Drainage Board,WATER BOARD,Colombo,,Offline,101110008903,Current Acc,NDB,Head Office,,,,50,100000,nwsdbch@sltnet.lk,1939,NWSDB Account No,12-16,,,,,,,,,
+Telephone,Bharti Airtel Lanka Pvt Ltd,AIRTEL,Colombo,,Online,101000388484,Current Acc,NDB,Head Office,,,,50,100000,555@lk.airtel.com,0755 555 555,Phone No,10-10,,,,,,,,,N
+Internet,Bharti Airtel Lanka Pvt Ltd,AIRTEL,Colombo,,Online,101000388484,Current Acc,NDB,Head Office,,,,50,100000,555@lk.airtel.com,0755 555 555,Phone No,10-10,,,,,,,,,N
+Stock Brokers,NDB Securities (Pvt) Ltd,NDBS,Colombo,,Online,101000029719,Current Acc,NDB,Head Office,,,,1,1000000,accounts@ndbs.lk,94112131000,CDS Account Number,16-16,,,,,,,,,AN
+NDB Staff,Staff Lunch Facility,STAFF LUNCH FACILITY,Colombo,,Online,100001002459,Current Acc,NDB,Head Office,,,,2300,2300,contact@ndbbank.com,9411248888,EPF No,1-6,,,,,,,,,N

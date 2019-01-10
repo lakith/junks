@@ -1,0 +1,50 @@
+Product Type,Product Name,Description,Rate
+FIXED DEPOSIT,1 month,100000,8.50%
+FIXED DEPOSIT,3 months,10000,10.50%
+FIXED DEPOSIT,6 months,10000,11.50%
+FIXED DEPOSIT,12 months,10000,11.75%
+FIXED DEPOSIT,24 months,10000,12.00%
+FIXED DEPOSIT,36 months,100000,13.50%
+FIXED DEPOSIT,48 months,100000,13.50%
+FIXED DEPOSIT,60 months,100000,14.50%
+CERTIFICATE DEPOSIT,12 months,,11.75%
+CERTIFICATE DEPOSIT,24 months,,12.00%
+CERTIFICATE DEPOSIT,36 months,,13.50%
+CERTIFICATE DEPOSIT,48 months,,13.50%
+CERTIFICATE DEPOSIT,60 months,,14.50%
+SAVINGS,Easy Saver,Tier1 : 0 - 999.99,0.00%
+SAVINGS,Easy Saver,"Tier2 : 1,000 & above",3.25%
+SAVINGS,Big Saver,Tier1 :0- 999.99,0.00%
+SAVINGS,Big Saver,"Tier2 :1,000 - 49,999.99",3.25%
+SAVINGS,Big Saver,"Tier3 :50,000 & above ",5.25%
+SAVINGS,Salary Max Savings,Tier1 :0 - 999.99,0.00%
+SAVINGS,Salary Max Savings,"Tier2 :1,000.00 above",3.25%
+SAVINGS,Minor ,Tier1 :0 - 499.99,0.00%
+SAVINGS,Minor ,"Tier2 :500.00 - 100,000.00",3.00%
+SAVINGS,Minor ,"Tier3 :100,000.00 above",3.50%
+SAVINGS,Shilpa,Tier1 :0 - 999.99,0.00%
+SAVINGS,Shilpa,"Tier2 :1,000 and above",3.00%
+SAVINGS,Shilpa,Tier3 :Reward Interest (Net),6.00%
+SAVINGS,Real Saver,Tier1 :0 - 999.99,0.00%
+SAVINGS,Real Saver,"Tier2 :1,000 and above",3.00%
+SAVINGS,Real Saver,Reward Interest (Net),6.00%
+SAVINGS,Vishmitha,"Tier1 :0 - 1,999.99",0.00%
+SAVINGS,Vishmitha,"Tier2 :2,000.00 above",3.25%
+SAVINGS,Staff ,"Tier1 :0 - 2,499.99",0.00%
+SAVINGS,Vishmitha,"Tier2 :2,500.00 above ",5.00%
+SAVINGS,Money Market Savings,"Tier1 :0 - 999,999.99",3.00%
+SAVINGS,Money Market Savings,"Tier2 :1,000,000.00 & above ",8.75%
+SAVINGS,High End Saver &,"Tier1 :0 - 999,999.99",0.00%
+SAVINGS,Corporate Saver,"Tier2 :1,000,000.00 & above ",7.50%
+SAVINGS,Araliya Savings ,Tier1 :0 - 999.99,0.00%
+SAVINGS,Araliya Savings ,"Tier2 :1,000.00 & above ",3.00%
+SAVINGS,Araliya Savings ,Reward Interest (Net),3.75%
+SAVINGS,Achara Savings,Tier1 :0 - 200.00,0.00%
+SAVINGS,Achara Savings,Tier2 :201.00 & above,5.00%
+SAVINGS,Big Saver Plus,"Tier1 :0 - 99,999.99",0.00%
+SAVINGS,Big Saver Plus,"Tier2 :100,000.00 - 999,999.99 ",6.00%
+SAVINGS,Big Saver Plus,Tier3 :1 million & above,6.50%
+SAVINGS PLANNER,Individual ,1 - 5 Years,9.50%
+SAVINGS PLANNER,Individual ,6 - 10 Years,9.75%
+SAVINGS PLANNER,Minor ,1 - 5 Years,9.50%
+SAVINGS PLANNER,Minor ,6 - 18 Years ,9.75%
